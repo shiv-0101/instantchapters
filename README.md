@@ -1,5 +1,7 @@
 # instantchapters
 
+Demo: https://shiv-0101.github.io/instantchapters/
+
 This is a redesigened website for original AI tool that creates timestamps for Youtube interviews or podcasts.
 
 You can visit original website at:
