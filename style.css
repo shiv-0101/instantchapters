@@ -96,6 +96,7 @@ main{
     width: fit-content;
     padding: 8px 14px;
     border-radius: 20px;
+    margin: 0;
 }
 .beta > p{
     font-size: 14px;
